@@ -3,6 +3,7 @@ Rencana content pra
 *es6
 *framework javascript
  >vue
+ >react
 -struktur dasar data
 -php
 >laravel
