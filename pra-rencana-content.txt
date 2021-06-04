@@ -2,7 +2,10 @@ Rencana content pra
 -javascript
 *es6
 *framework javascript
+ >vue
 -struktur dasar data
 -php
+>laravel
 -interview
 -vlog
+phyton
